@@ -9,7 +9,7 @@ let app = new Vue ({
             },
             {
                 'testo' : 'Andare dal gommista',
-                'done' : false
+                'done' : true
             },
             {
                 'testo' : 'Comprare un pc',
